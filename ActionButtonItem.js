@@ -206,8 +206,7 @@ const styles = StyleSheet.create({
     borderRadius: 3,
     borderWidth: StyleSheet.hairlineWidth,
     borderColor: "#eee",
-    backgroundColor: "white",
-    height: TEXT_HEIGHT
+    backgroundColor: "white"
   },
   text: {
     flex: 1,
